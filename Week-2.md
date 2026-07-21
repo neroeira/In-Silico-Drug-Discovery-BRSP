@@ -1,5 +1,5 @@
 # Laporan Interpretasi Hasil
-## Analisis Network Pharmacology Metabolit Carica papaya (Daun Pepaya) terhadap Penyakit Malaria
+## Analisis __Network Pharmacology__ Metabolit __Carica papaya__ (Daun Pepaya) terhadap Penyakit Malaria
 _Carica papaya_, atau yang biasa dikenal sebagai pepaya, adalah tumbuhan tropis yang dikenal luas di Indonesia. Daunnya sendiri telah banyak digunakan sebagai pengobatan tradisional karena kandungan antiinflamasi, antimikroba, dan aktivitas fitokimia lainnya. Di samping itu, studi oleh Arwansyah et al. (2025) melaporkan adanya kandungan metabolit yang diidentifikasi berpotensi sebagai agen antimalaria dengan menargetkan situs protein yang berperan dalam siklus hidup parasit tersebut. Analisis ini bertujuan untuk mengidentifikasi senyawa bioaktif di C. papaya yang berpotensi sebagai alternatif terapi antimalaria.
 
 Tabel 1. Daftar metabolit _Carica papaya_ hasil identifikasi menggunakan IJAH Analytics
