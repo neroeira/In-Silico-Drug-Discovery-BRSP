@@ -5,7 +5,7 @@ TLR2 adalah reseptor transmembran pada sel-sel imun yang berfungsi untuk mengena
 
 Tabel 1. Karakteristik protein target dan ligan pada simulasi _molecular docking_
 
-
+![Tabel Karakteristik Protein](/Picture9.png "Tabel Karakteristik Protein")
 
 Berdasarkan hasil analisis _network pharmacology_, TLR2 dipilih sebagai target protein untuk _molecular docking_ karena merupakan salah satu hub protein yang berperan dalam jalur malaria. Struktur tiga dimensi TLR2 diperoleh dari Protein Data Bank (RCSB PDB), sedangkan struktur β-cryptoxanthin dalam format SMILES diperoleh dari PubChem.
 
